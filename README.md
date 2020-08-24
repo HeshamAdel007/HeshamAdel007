@@ -1,4 +1,4 @@
-# Hello There <img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Hi.gif" width="29px"> **I’am Hesham Adel**
+# Hello There <img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Hi.gif" width="29px">
 
 
 ## **Adress**
@@ -18,7 +18,7 @@
 <p>
 <img width="55%" align="right" alt="Github" src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/git-header.svg" />
 
-<img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> **I’M Hesham Adel**
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> **I’M Hesham Adel**
 
 - ⚡️ I'm Passionate about programming. I Main Focus on Learning Every Day and Acquiring New Skills.
 
@@ -89,7 +89,7 @@
 ## Connect With Me <img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Handshake.gif" height="32px"> 
 
 
-[<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/heshamadel000)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/H_Adel5)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/h_adel0/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/HeshamAdel007) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:heshamadel528@gmail.com)
+[<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/heshamadel000)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/H_Adel5)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/h_adel0/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/HeshamAdel007) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/fb.svg" alt="Facebook logo" height="32">](mailto:heshamadel528@gmail.com) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:heshamadel528@gmail.com)
 
 <hr>
 
