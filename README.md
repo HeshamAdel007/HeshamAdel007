@@ -7,9 +7,7 @@
 
 | I am from **Egypt**  | I live in **Alexandria**  |
 |---|---|
-| <img src ="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/egypt.jpg" width = "330px"> | <img src ="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/alex.jpg" width = "330px">  |
-
-<hr>
+| <img src ="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/egypt.jpg" width = "350px"> | <img src ="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/alex.jpg" width = "350px">  |
 
 
 <!-- Talking about you -->
@@ -89,9 +87,8 @@
 ## Connect With Me <img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Handshake.gif" height="32px"> 
 
 
-[<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/heshamadel000)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/H_Adel5)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/h_adel0/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/HeshamAdel007) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/fb.svg" alt="Facebook logo" height="32">](mailto:heshamadel528@gmail.com) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:heshamadel528@gmail.com)
+[<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/heshamadel000)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/H_Adel5)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/h_adel0/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/HeshamAdel007) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/fb.svg" alt="Facebook logo" height="32">](https://www.facebook.com/Hesham.H.Adel/) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:heshamadel528@gmail.com)
 
-<hr>
 
 ## **ViewCount**
 
