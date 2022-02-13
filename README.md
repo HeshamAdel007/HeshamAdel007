@@ -33,7 +33,9 @@
 
 ## **Languages and Tools** 
 <p>
-  <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshamAdel007&layout=compact">
+  <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshamAdel007&layout=compact" alt="heshamadel007" />
+  
+  <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=heshamadel007&show_icons=true&locale=en" alt="heshamadel007" />
 
 
   <!-- Your languages and tools 
